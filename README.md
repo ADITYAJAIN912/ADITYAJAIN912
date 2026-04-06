@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">👋 Hey, I'm Mayank Chaurasia</h1>
+<h1 align="center">👋 Hey, I'm Aditya Jain</h1>
 <h3 align="center">🚀 Full Stack Developer • 🤖 AI/ML Builder • 💡 Product Engineer</h3>
 
 <p align="center">
