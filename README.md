@@ -15,7 +15,7 @@
   <a href="mailto:yourmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/ADITYAJAIN912">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_PROFILE">
@@ -82,8 +82,8 @@ DSA             ██████████░░░░░░ 70%
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADITYAJAIN912&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYAJAIN912&theme=tokyonight" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ DSA             ██████████░░░░░░ 70%
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAJAIN912&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@ DSA             ██████████░░░░░░ 70%
 
 ## 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYAJAIN912&theme=tokyo-night" />
 
 ---
 
@@ -111,7 +111,7 @@ DSA             ██████████░░░░░░ 70%
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/ADITYAJAIN912/ADITYAJAIN912/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
