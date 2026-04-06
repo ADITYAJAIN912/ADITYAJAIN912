@@ -15,10 +15,10 @@
   <a href="mailto:yourmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
@@ -82,8 +82,8 @@ DSA             ██████████░░░░░░ 70%
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ DSA             ██████████░░░░░░ 70%
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@ DSA             ██████████░░░░░░ 70%
 
 ## 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
 
 ---
 
@@ -111,7 +111,7 @@ DSA             ██████████░░░░░░ 70%
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -129,5 +129,5 @@ DSA             ██████████░░░░░░ 70%
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  ⭐ From <b>Mayank Chaurasia</b> — Building the Future 🚀
+  ⭐ From <b>Aditya Jain</b> — Building the Future 🚀
 </p>
