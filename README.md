@@ -108,11 +108,6 @@ DSA             ██████████░░░░░░ 70%
 
 <!-- ================= SNAKE GRAPH ================= -->
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ADITYAJAIN912/ADITYAJAIN912/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ---
 
